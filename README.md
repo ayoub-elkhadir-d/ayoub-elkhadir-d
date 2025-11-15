@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ayoub 👋
 
-<!--
-**ayoub-elkhadir-d/ayoub-elkhadir-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 💻 Full-stack developer in progress  
+- 🎯 Passionate about web technologies  
+- 🌱 Currently learning JavaScript & modern frameworks  
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
+- JavaScript, HTML, CSS
+- Git & GitHub
+- C Language
+- VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects I'm Proud Of
+- SpaceX youcode clone  
+- Cosmic Explore  
+- Challenges in C & JS  
+
+### 📫 Contact
+- 📧 asiacodi@gmail.com  
+- 🌍 Location: Taza, Ouad Amil  
