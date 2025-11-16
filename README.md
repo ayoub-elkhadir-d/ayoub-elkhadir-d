@@ -9,6 +9,7 @@
 - JavaScript, HTML, CSS
 - Git & GitHub
 - C Language
+- java Android studio
 - VS Code
 
 ### 📌 Projects I'm Proud Of
