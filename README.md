@@ -34,7 +34,7 @@
   <a href="https://linkedin.com/in/ayoub-elkhadir" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="ayoub-elkhadir" height="30" width="40" />
   </a>
-  <a href="https://fb.com/kouygtfdsdfghjk" target="_blank">
+  <a href="https://www.facebook.com/ayoub.elkhadir.2004" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="kouygtfdsdfghjk" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/oiuygftdsfghjkl" target="_blank">
