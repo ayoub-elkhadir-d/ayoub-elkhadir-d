@@ -5,10 +5,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=I'm+Ayoub+El+Khadir;Laravel+%26+React+Developer;Full+Stack+Web+Developer" alt="Ayoub El Khadir Profile"></a>
 </div>
 
-> *Nombre de visiteurs*
-<a href="https://github.com/ayoub-elkhadir-d">
-  <img src="https://visitcount.itsvg.in/api?id=ayoub-elkhadir-d&label=Profile%20Views&pretty=true" />
-</a>
+
 
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/ayoub-elkhadir-d"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/ayoub-elkhadir-d"><img align="right" src="https://komarev.com/ghpvc/?username=ayoub-elkhadir-d&style=for-the-badge&color=blue"></a>
 
@@ -21,7 +18,7 @@
 - 🚀 **Développeur Full Stack** spécialisé en **Laravel** & **React**[cite: 6].
 - 🎓 Étudiant à **YouCode UM6P (Safi)**[cite: 6].
 - 💡 Passionné par les architectures modernes, la performance technique et l'expérience utilisateur[cite: 6].
-- 🛠️ Réalisation de **+30 projets** web & mobiles (BookBus, Real-time Voting System avec WebSockets Reverb, etc.)[cite: 6].
+- 🛠️ Réalisation de **+30 projets** web & mobiles[cite: 6].
 
 <!--Contact-->
 
@@ -67,6 +64,33 @@
 | [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/ayoub-elkhadir-d) | [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://github.com/ayoub-elkhadir-d) | [![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=postman&logoColor=white)](https://github.com/ayoub-elkhadir-d) | [![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/ayoub-elkhadir-d) | | [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](https://github.com/ayoub-elkhadir-d) |
 
 </div>
+
+<a href="https://github.com/ayoub-elkhadir-d">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<!-- FEATURED REPOSITORIES -->
+
+<h3 align="center">
+  🚀 【﻿Ｆｅａｔｕｒｅｄ Ｒｅｐｏｓｉｔｏｒｉｅｓ】
+</h3>
+
+<br>
+
+<div align="center">
+
+| Repository | Tech Stack | Key Features |
+| :--- | :--- | :--- |
+| 🗳️ **[VoteRoom](https://github.com/ayoub-elkhadir-d)** | `Laravel` `WebSockets (Reverb)` `Blade` `MySQL` | Application de vote en temps réel, gestion d'authentification et affichage dynamique des résultats. |
+| 🏠 **[EasyColoc](https://github.com/ayoub-elkhadir-d)** | `Laravel` `PHP` `MySQL` `TailwindCSS` | Plateforme de gestion de colocations, suivi des dépenses communes et calcul automatique des dettes. |
+| 🏦 **[SmartBank](https://github.com/ayoub-elkhadir-d)** | `Vanilla JS (SPA)` `HTML5` `CSS3` | Application bancaire Single Page Application (SPA) avec un système de routage personnalisé côté client. |
+| 🚌 **[BookBus](https://github.com/ayoub-elkhadir-d)** | `Laravel` `Blade` `JavaScript` `MySQL` | Système complet de réservation de billets de bus avec gestion des trajets et authentification. |
+| 📰 **[BlogCMS](https://github.com/ayoub-elkhadir-d)** | `PHP OOP` `MySQL` `MVC` | Système de gestion de contenu (CMS) avec rôles d'utilisateurs (Auteurs/Admins) et modération d'articles. |
+| 📱 **[Android Store Manager](https://github.com/ayoub-elkhadir-d)** | `Java` `Android Studio` `SQLite` | Application mobile CRUD pour la gestion de magasin et la sauvegarde/restauration de données locales. |
+
+</div>
+
+<br>
 
 <a href="https://github.com/ayoub-elkhadir-d">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
