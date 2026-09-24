@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayoub-elkhadir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ayoub@vhom.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ayoubelkhadirdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/212601040360"><img src="https://img.shields.io/badge/Whatsapp-white?logo=Whatsapp&logoColor=Brightgreen&labelColor=white"/></a>
   <a href="https://github.com/ayoub-elkhadir-d" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
