@@ -15,10 +15,10 @@
 
 ### 👨‍💻 À propos de moi
 
-- 🚀 **Développeur Full Stack** spécialisé en **Laravel** & **React**[cite: 6].
-- 🎓 Étudiant à **YouCode UM6P (Safi)**[cite: 6].
-- 💡 Passionné par les architectures modernes, la performance technique et l'expérience utilisateur[cite: 6].
-- 🛠️ Réalisation de **+30 projets** web & mobiles[cite: 6].
+- 🚀 **Développeur Full Stack** spécialisé en **Laravel** & **React**.
+- 🎓 Étudiant à **YouCode UM6P (Safi)**.
+- 💡 Passionné par les architectures modernes, la performance technique et l'expérience utilisateur.
+- 🛠️ Réalisation de **+30 projets** web & mobiles.
 
 <!--Contact-->
 
@@ -95,56 +95,3 @@
 <a href="https://github.com/ayoub-elkhadir-d">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
-
-<!--STATS-->
-
-<h3 align="center">
- <a href="https://github.com/ayoub-elkhadir-d">
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
- </a> <a href="https://github.com/ayoub-elkhadir-d">
-  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
- </a> 【﻿Ｓｔａｔｓ】 
-</h3>
-
-<a href="https://github.com/ayoub-elkhadir-d">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
-</a>
-
-<p align="center">
-<br/>
-<a href="https://github.com/ayoub-elkhadir-d"><img align="center" src="https://img.shields.io/github/followers/ayoub-elkhadir-d?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/ayoub-elkhadir-d">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoub-elkhadir-d&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="ayoub-elkhadir-d github stats"/>
-</a>
-<br/>
-</p>
-
-<!--More Stats-->
-
-<details open align="center">
-  <summary>📈 More Stats</summary>
-  <br>
-
-<div align="center">
- <a href="https://github.com/ayoub-elkhadir-d"> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayoub-elkhadir-d&theme=algolia" width="100%" /> <br><br>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayoub-elkhadir-d&theme=algolia" width="31%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayoub-elkhadir-d&theme=algolia" width="31%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayoub-elkhadir-d&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
-<br><br>
- </a>
- 
- [![ayoub-elkhadir-d github streak](https://github-readme-streak-stats.herokuapp.com/?user=ayoub-elkhadir-d&theme=algolia&card_width=1000)](https://github.com/ayoub-elkhadir-d) <br><br>
-[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=ayoub-elkhadir-d&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/ayoub-elkhadir-d) <br>
-</div>
-
-</details>
-
-<!--THANKS-->
-<p align="center">
-  <a href="https://github.com/ayoub-elkhadir-d"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
-</p>
