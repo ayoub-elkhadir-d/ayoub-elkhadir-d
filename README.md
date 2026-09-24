@@ -16,7 +16,6 @@
 ### 👨‍💻 À propos de moi
 
 - 🚀 **Développeur Web Full Stack**.
-- 🎓 Étudiant à **YouCode UM6P (Safi)**.
 - 💡 Passionné par les architectures modernes, la performance technique et l'expérience utilisateur.
 - 🛠️ Réalisation de **+40 projets** web & mobiles.
 
