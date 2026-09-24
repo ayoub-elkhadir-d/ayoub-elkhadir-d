@@ -97,26 +97,6 @@
 </a>
 <!--More Stats-->
 
-<details open align="center">
-  <summary>📈 More Stats</summary>
-  <br>
-
-<div align="center">
- <a href="https://github.com/ayoub-elkhadir-d"> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayoub-elkhadir-d&theme=algolia" width="100%" /> <br><br>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayoub-elkhadir-d&theme=algolia" width="31%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayoub-elkhadir-d&theme=algolia" width="31%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayoub-elkhadir-d&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
-<br><br>
- </a>
- 
- [![ayoub-elkhadir-d github streak](https://github-readme-streak-stats.herokuapp.com/?user=ayoub-elkhadir-d&theme=algolia&card_width=1000)](https://github.com/ayoub-elkhadir-d) <br><br>
-[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=ayoub-elkhadir-d&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/ayoub-elkhadir-d) <br>
-</div>
-
-</details>
-
 <!--THANKS-->
 <p align="center">
   <a href="https://github.com/ayoub-elkhadir-d"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
